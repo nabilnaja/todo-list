@@ -7,7 +7,7 @@ A list of subjects i wish to review later or problem I need to redo ..
 - [ ] Work on AVL tree
   - [ ] 327. Count of Range Sum
   - [X] 315. Count of Smaller Numbers After Self
- - [ ] Work on segment tree
+- [ ] Work on segment tree
   - [ ] 327. Count of Range Sum
   - [ ] 315. Count of Smaller Numbers After Self
 - [ ] Do more divide and conquer problem. 
