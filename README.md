@@ -27,3 +27,5 @@ A list of subjects i wish to review later or problem I need to redo ..
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/introduction)
 - [Amazon interview preparation](https://www.amazon.jobs/fr/landing_pages/in-person-interview)
 
+## System design
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
