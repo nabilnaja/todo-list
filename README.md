@@ -24,6 +24,8 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] Former interview question: minesweeper
   - [ ] 575. Distribute Candies
   - [ ] 300. Longest Increasing Subsequence
+  - [ ] 289. Game of Life
+
 
 # Links
 
