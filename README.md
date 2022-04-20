@@ -21,6 +21,8 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] Former interview question: flatten iterators
   - [ ] Former interview question: find longest word
   - [ ] Former interview question: word squares
+  - [ ] Former interview question: minesweeper
+  - [ ] 575. Distribute Candies
 
 # Links
 
