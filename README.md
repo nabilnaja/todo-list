@@ -26,6 +26,7 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] 300. Longest Increasing Subsequence
   - [ ] 289. Game of Life
   - [ ] 322. Coin Change
+  - [ ] 406. Queue Reconstruction by Height
 
 # Links
 
