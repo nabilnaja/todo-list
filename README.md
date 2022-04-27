@@ -34,6 +34,7 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] 951. Flip Equivalent Binary Trees
   - [ ] 223. Rectangle Area
   - [ ] 146. LRU Cache
+  - [ ] 705. Design HashSet
  - [ ] Catalan numbersbacktracking
 
 # Links
