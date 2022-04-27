@@ -33,6 +33,7 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] 727. Minimum Window Subsequence
   - [ ] 951. Flip Equivalent Binary Trees
   - [ ] 223. Rectangle Area
+  - [ ] 146. LRU Cache
  - [ ] Catalan numbersbacktracking
 
 # Links
