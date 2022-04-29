@@ -36,6 +36,7 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] 146. LRU Cache
   - [ ] 705. Design HashSet
  - [ ] Catalan numbersbacktracking
+ - [ ] A subtlety is that Fibonacci numbers grow to Θ(n) bits long, potentially  word size w .  Each addition costs O(dn/we) time . • So total cost is O(ndn/we) = O(n + n2/w) time 
 
 # Links
 
