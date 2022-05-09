@@ -46,6 +46,8 @@ A list of subjects i wish to review later or problem I need to redo ..
 - [ ] Aroskar's Zuul push: https://www.youtube.com/watch?v=6w6E_B55p0E
 - [ ] NALSD on Google SRE book: https://sre.google/workbook/non-abstract-design/
 - [ ] Krikorian's timelines at scale: https://www.infoq.com/presentations/Twitter-Timeline-Scalability/
+- [ ] Cassandra's capacity planning guidelines by datastax: https://docs.datastax.com/en/dse-planning/doc/planning/capacityPlanning.html
+- [ ] Youtube guy: https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
 
 
 
