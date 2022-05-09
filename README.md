@@ -38,6 +38,12 @@ A list of subjects i wish to review later or problem I need to redo ..
  - [ ] Catalan numbersbacktracking
  - [ ] A subtlety is that Fibonacci numbers grow to Θ(n) bits long, potentially  word size w .  Each addition costs O(dn/we) time . • So total cost is O(ndn/we) = O(n + n2/w) time [source](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/9eb3e9a51a7b5b60b0f67c2277f8b0ee_MIT6_006S20_lec15.pdf)
 
+# System Design
+
+- [ ] Nathan Bronson's Tao: https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson
+- [ ] Nishtala's memcache: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala
+- [ ] Kulkarni's Facebook live: https://www.youtube.com/watch?v=IO4teCbHvZw
+
 
 # Links
 
