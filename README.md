@@ -43,6 +43,8 @@ A list of subjects i wish to review later or problem I need to redo ..
 - [ ] Nathan Bronson's Tao: https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson
 - [ ] Nishtala's memcache: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala
 - [ ] Kulkarni's Facebook live: https://www.youtube.com/watch?v=IO4teCbHvZw
+- [ ] Aroskar's Zuul push: https://www.youtube.com/watch?v=6w6E_B55p0E
+- [ ] NALSD on Google SRE book: https://sre.google/workbook/non-abstract-design/
 
 
 # Links
