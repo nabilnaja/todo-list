@@ -73,3 +73,4 @@ A list of subjects i wish to review later or problem I need to redo ..
 
 - [String](https://leetcode.com/discuss/study-guide/1333049/collections-of-string-questions-pattern-for-upcoming-placement-2021)
 - [Tree](https://leetcode.com/discuss/interview-question/1337373/tree-question-pattern-2021-placement)
+- [DT](https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master)
