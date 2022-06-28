@@ -2,6 +2,7 @@
 
 A list of subjects i wish to review later or problem I need to redo ..
 
+
 - [ ] Finish solving the chapter 4 exercises (ADM)
 - [ ] Do the interview questions of ADM chapter 4
 - [ ] Work on AVL tree
