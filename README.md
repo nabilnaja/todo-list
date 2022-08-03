@@ -38,7 +38,8 @@ A list of subjects i wish to review later or problem I need to redo ..
   - [ ] 146. LRU Cache
   - [ ] 705. Design HashSet
   - [ ] 402. Remove K Digits
- - [ ] Catalan numbersbacktracking
+ - [ ] Catalan numbers backtracking
+ - [ ] Ackermann function : Graphs , Union-Find
  - [ ] A subtlety is that Fibonacci numbers grow to Θ(n) bits long, potentially  word size w .  Each addition costs O(dn/we) time . • So total cost is O(ndn/we) = O(n + n2/w) time [source](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/9eb3e9a51a7b5b60b0f67c2277f8b0ee_MIT6_006S20_lec15.pdf)
 
 # System Design
